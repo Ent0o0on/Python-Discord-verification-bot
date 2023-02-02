@@ -1,4 +1,6 @@
 # Python-Discord-verification-bot
 A cool Discord verification bot
 
-https://cdn.discordapp.com/attachments/1031940112545751112/1066507683504595075/image.png
+
+![image](https://user-images.githubusercontent.com/72298687/216335672-0c211593-28aa-4164-8ec4-8eafff6b9b79.png)
+
