@@ -1,3 +1,8 @@
+# 1. Create an .env file!
+# 2. Write this into the .env file: TOKEN="(Your Token here)"
+# 3. You're good to go!
+
+
 import discord
 from discord.ext import commands
 import discord.ui
